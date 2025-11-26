@@ -1,0 +1,46 @@
+{
+    "IDAMetadataDescriptorVersion": 1,
+    "plugin" :
+    {
+      "name" : "ReCopilot",
+      "description": "ReCopilot: Reverse Engineering Copilot in Binary Analysis",
+      "entryPoint" : "recopilot.py",
+      "version": "v0.2",
+      "idaVersions": [
+        "9.0",
+        "9.1",
+        "9.2"
+      ],
+      "platforms": [
+        "windows-x86_64",
+        "linux-x86_64",
+        "macos-x86_64",
+        "macos-aarch64"
+      ],
+      "license": "CC BY-NC 4.0",
+      "categories": [
+        "ui-ux-and-visualization"
+      ],
+      "keywords": [
+        "LLM",
+        "Decompilation Augmentation",
+        "BCSD",
+        "Homology Search"
+      ],
+      "urls": {
+        "repository": "https://github.com/XingTuLab/recopilot"
+      },
+      "authors": [
+        {
+          "name": "XingTuLab",
+          "email": "research@qianxin.com"
+        }
+      ],
+      "pythonDependencies": [
+        "openai>=1.58.1",
+        "requests",
+        "termcolor",
+        "pygments"
+      ]
+    }
+  }
