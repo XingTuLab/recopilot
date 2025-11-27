@@ -5,7 +5,7 @@
       "name" : "ReCopilot",
       "description": "ReCopilot: Reverse Engineering Copilot in Binary Analysis",
       "entryPoint" : "recopilot.py",
-      "version": "v0.2",
+      "version": "0.2",
       "idaVersions": [
         "9.0",
         "9.1",
@@ -19,6 +19,8 @@
       ],
       "license": "CC BY-NC 4.0",
       "categories": [
+        "decompilation",
+        "api-scripting-and-automation",
         "ui-ux-and-visualization"
       ],
       "keywords": [
