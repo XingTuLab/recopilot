@@ -3,7 +3,7 @@
 <p>
 <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+"></a>
 <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-9.0+-orange.svg" alt="IDA Pro"></a>
-<a href="https://tqgpt.qianxin.com/recopilot/"><img src="https://img.shields.io/badge/🌐-Website-green.svg" alt="Website"></a>
+<a href="https://tqgpt.qianxin.com/recopilot/"><img src="https://img.shields.io/badge/🌐-Website-black.svg" alt="Website"></a>
 <a href="https://arxiv.org/abs/2505.16366"><img src="https://img.shields.io/badge/arXiv-2505.16366-b31b1b.svg" alt="arXiv"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-blue.svg" alt="License"></a>
 <br>
@@ -82,6 +82,8 @@ In the SimAI Settings tab, configure the search model API:
 Base URL: https://tqgpt.qianxin.com/simai/analyze
 API Key: Same as above
 ```
+
+Obtain API Key from Personal Center on our website: [https://tqgpt.qianxin.com/recopilot/](https://tqgpt.qianxin.com/recopilot/)
 
 For more configuration options and usage details, please visit our [Documentation](https://tqgpt.qianxin.com/recopilot/).
 

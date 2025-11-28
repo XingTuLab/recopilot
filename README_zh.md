@@ -3,7 +3,7 @@
 <p>
 <a href="https://www.python.org/downloads/"><img src="https://img.shields.io/badge/python-3.8+-blue.svg" alt="Python 3.8+"></a>
 <a href="https://hex-rays.com/ida-pro/"><img src="https://img.shields.io/badge/IDA%20Pro-9.0+-orange.svg" alt="IDA Pro"></a>
-<a href="https://tqgpt.qianxin.com/recopilot/"><img src="https://img.shields.io/badge/🌐-Website-green.svg" alt="Website"></a>
+<a href="https://tqgpt.qianxin.com/recopilot/"><img src="https://img.shields.io/badge/🌐-Website-black.svg" alt="Website"></a>
 <a href="https://arxiv.org/abs/2505.16366"><img src="https://img.shields.io/badge/arXiv-2505.16366-b31b1b.svg" alt="arXiv"></a>
 <a href="LICENSE"><img src="https://img.shields.io/badge/license-GPLv3-blue.svg" alt="License"></a>
 <br>
@@ -82,6 +82,8 @@ API Key: 从官网个人中心获取 Token
 Base URL: https://tqgpt.qianxin.com/simai/analyze
 API Key: 同上
 ```
+
+从官网个人中心获取 API Key: [https://tqgpt.qianxin.com/recopilot/](https://tqgpt.qianxin.com/recopilot/)
 
 更多配置选项和使用详情，请访问我们的[帮助文档](https://tqgpt.qianxin.com/recopilot/)。
 
