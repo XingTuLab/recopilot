@@ -2,7 +2,7 @@
     "IDAMetadataDescriptorVersion": 1,
     "plugin" :
     {
-      "name" : "ReCopilot",
+      "name" : "recopilot",
       "description": "ReCopilot: Reverse Engineering Copilot in Binary Analysis",
       "entryPoint" : "recopilot.py",
       "version": "0.2",
