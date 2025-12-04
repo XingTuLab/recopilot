@@ -83,7 +83,7 @@ Base URL: https://tqgpt.qianxin.com/simai/analyze
 API Key: Same as above
 ```
 
-Obtain API Key from Personal Center on our website (**ENGLISH VERSION IS COMING SOON**): [https://tqgpt.qianxin.com/recopilot/](https://tqgpt.qianxin.com/recopilot/)
+Obtain API Key from Personal Center on our website (**ENGLISH VERSION IS ONLINE**): [https://tqgpt.qianxin.com/recopilot/](https://tqgpt.qianxin.com/recopilot/)
 
 For more configuration options and usage details, please visit our [Documentation](https://tqgpt.qianxin.com/recopilot/).
 
